@@ -5,7 +5,9 @@
 #🛠️ ferramentas utilizadas
 
    Arduino leonardo 
+   
    cabo USB
+   
    IDE arduino
 
 #⚠️ Aviso Legal 
